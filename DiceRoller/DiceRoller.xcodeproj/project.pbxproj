@@ -59,9 +59,9 @@
 				8112393A2BBDCD4C00B6EDC8 /* AppDelegate.swift */,
 				8112393C2BBDCD4C00B6EDC8 /* SceneDelegate.swift */,
 				8112393E2BBDCD4C00B6EDC8 /* ViewController.swift */,
-				811239402BBDCD4C00B6EDC8 /* Main.storyboard */,
 				811239432BBDCD4C00B6EDC8 /* Assets.xcassets */,
 				811239452BBDCD4C00B6EDC8 /* LaunchScreen.storyboard */,
+				811239402BBDCD4C00B6EDC8 /* Main.storyboard */,
 				811239482BBDCD4C00B6EDC8 /* Info.plist */,
 			);
 			path = DiceRoller;

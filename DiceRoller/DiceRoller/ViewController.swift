@@ -7,14 +7,13 @@
 
 import UIKit
 
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var diceIMV1: UIImageView!
     
     @IBOutlet weak var diceIMV2: UIImageView!
     
-//    let diceArr = [];
-//                   UIImage(imageLiteralResourceName: "Dice0")
     
 
     @IBAction func rollButton(_ sender: UIButton) {
@@ -27,8 +26,6 @@ class ViewController: UIViewController {
         ];
         diceIMV1.image = diceArr[Int.random(in: 0...5)];
         diceIMV2.image = diceArr[Int.random(in: 0...5)];
-        
-//
     }
     
     override func viewDidLoad() {
